@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExpandableCardView</string>
+    <string name="col0">Day</string>
+    <string name="col1">1</string>
+    <string name="col2">2</string>
+    <string name="col3">3</string>
+    <string name="col4">4</string>
+    <string name="col5">5</string>
+    <string name="col6">6</string>
+    <string name="col7">7</string>
+    <string name="col8">8</string>
+    <string name="col9">9</string>
+    <string name="row1Day">Monday</string>
+    <string name="row2Day">Tuesday</string>
+    <string name="row3Day">Wednesday</string>
+    <string name="row4Day">Thursday</string>
+    <string name="row5Day">Friday</string>
+    <string name="row6Day">Saturday</string>
+    <string name="row7Day">Sunday</string>
+    <string name="row1col1">P</string>
+    <string name="row1col2">P</string>
+    <string name="row1col3">P</string>
+    <string name="row1col4">P</string>
+    <string name="row1col5">P</string>
+    <string name="row1col6">P</string>
+    <string name="row1col7">P</string>
+    <string name="row1col8">P</string>
+    <string name="row1col9">P</string>
+
+</resources>
